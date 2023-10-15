@@ -216,7 +216,8 @@ import {
         },
       ],
       image: thai,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/henryv2003/thaikoketkalix.github.io",
+      live_link: "https://thaikoketkalix.se/",
     },
     {
       name: "Job IT",
@@ -258,7 +259,6 @@ import {
         },
       ],
       image: tripguide,
-      live_link: "https://thaikoketkalix.se/",
       source_code_link: "https://github.com/",
     },
   ];
