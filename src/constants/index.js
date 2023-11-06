@@ -117,15 +117,18 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
+      company_name: " ",  //"Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: " ",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
+        "illo voluptatem dolores rerum laborum, distinctio in sunt nulla nobis?",
+        "Quo nostrum hic sit reprehenderit! Voluptatem, beatae?",
+        /*"Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Participating in code reviews and providing constructive feedback to other developers.",*/
       ],
     },
     {
@@ -133,12 +136,11 @@ import {
       company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: " ",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
+        "illo voluptatem dolores rerum laborum, distinctio in sunt nulla nobis?",
+        "Quo nostrum hic sit reprehenderit! Voluptatem, beatae?",
       ],
     },
     {
@@ -146,12 +148,11 @@ import {
       company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: " ",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
+        "illo voluptatem dolores rerum laborum, distinctio in sunt nulla nobis?",
+        "Quo nostrum hic sit reprehenderit! Voluptatem, beatae?",
       ],
     },
     {
@@ -159,12 +160,11 @@ import {
       company_name: "Meta",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: " ",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
+        "illo voluptatem dolores rerum laborum, distinctio in sunt nulla nobis?",
+        "Quo nostrum hic sit reprehenderit! Voluptatem, beatae?",
       ],
     },
   ];
@@ -172,7 +172,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -180,7 +180,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -188,7 +188,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
@@ -222,7 +222,8 @@ import {
     {
       name: "Job IT",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus,illo voluptatem",
+       //"Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
           name: "react",
@@ -243,7 +244,8 @@ import {
     {
       name: "Trip Guide",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        //"A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus,illo voluptatem",
       tags: [
         {
           name: "nextjs",
