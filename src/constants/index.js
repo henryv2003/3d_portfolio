@@ -122,9 +122,9 @@ import {
       iconBg: "#383E56",
       date: " ",
       points: [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
-        "illo voluptatem dolores rerum laborum, distinctio in sunt nulla nobis?",
-        "Quo nostrum hic sit reprehenderit! Voluptatem, beatae?",
+        "",
+        "",
+        "",
         /*"Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
@@ -138,9 +138,9 @@ import {
       iconBg: "#E6DEDD",
       date: " ",
       points: [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
-        "illo voluptatem dolores rerum laborum, distinctio in sunt nulla nobis?",
-        "Quo nostrum hic sit reprehenderit! Voluptatem, beatae?",
+        "",
+        "",
+        "",
       ],
     },
     {
@@ -150,9 +150,9 @@ import {
       iconBg: "#383E56",
       date: " ",
       points: [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
-        "illo voluptatem dolores rerum laborum, distinctio in sunt nulla nobis?",
-        "Quo nostrum hic sit reprehenderit! Voluptatem, beatae?",
+        "",
+        "",
+        "",
       ],
     },
     {
@@ -162,9 +162,9 @@ import {
       iconBg: "#E6DEDD",
       date: " ",
       points: [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus",
-        "illo voluptatem dolores rerum laborum, distinctio in sunt nulla nobis?",
-        "Quo nostrum hic sit reprehenderit! Voluptatem, beatae?",
+        "",
+        "",
+        "",
       ],
     },
   ];
@@ -222,7 +222,7 @@ import {
     {
       name: "Job IT",
       description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus,illo voluptatem",
+      "",
        //"Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
@@ -245,7 +245,7 @@ import {
       name: "Trip Guide",
       description:
         //"A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia tempore est recusandae minus,illo voluptatem",
+        "",
       tags: [
         {
           name: "nextjs",
